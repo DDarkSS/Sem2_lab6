@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/MyVector/MyVector.h
+iostream
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/MyVector/iostream
+cstring
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/MyVector/cstring
+
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/Polynomial.h
+iostream
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/iostream
+
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/Terms.h
+iostream
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/iostream
+
+/Users/mikalbr/Projects/Sem2/Lab6/main.cpp
+Polinoms/MyVector/MyVector.h
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/MyVector/MyVector.h
+Polinoms/Terms.h
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/Terms.h
+Polinoms/Polynomial.h
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/Polynomial.h
+

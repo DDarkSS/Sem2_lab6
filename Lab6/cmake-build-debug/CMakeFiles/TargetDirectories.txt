@@ -1,0 +1,6 @@
+/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/CMakeFiles/Lab6.dir
+/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/CMakeFiles/rebuild_cache.dir
+/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/CMakeFiles/edit_cache.dir
+/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/CMakeFiles/Polinoms.dir

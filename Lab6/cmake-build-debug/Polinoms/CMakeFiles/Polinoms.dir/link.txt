@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libPolinoms.a  CMakeFiles/Polinoms.dir/Terms.cpp.o CMakeFiles/Polinoms.dir/Polynomial.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libPolinoms.a

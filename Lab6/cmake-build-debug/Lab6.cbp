@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab6"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Polinoms\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab6">
+				<Option output="/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Lab6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab6"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab6/fast">
+				<Option output="/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Lab6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab6/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Polinoms">
+				<Option output="/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/libPolinoms.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/Makefile&quot;  VERBOSE=1 Polinoms"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Polinoms/fast">
+				<Option output="/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/libPolinoms.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/Makefile&quot;  VERBOSE=1 Polinoms/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mikalbr/Projects/Sem2/Lab6/cmake-build-debug/Polinoms/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/MyVector/MyVector.cpp">
+			<Option target="Lab6"/>
+		</Unit>
+		<Unit filename="/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/MyVector/MyVector.h">
+			<Option target="Lab6"/>
+		</Unit>
+		<Unit filename="/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/Polynomial.cpp">
+			<Option target="Lab6"/>
+			<Option target="Polinoms"/>
+		</Unit>
+		<Unit filename="/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/Polynomial.h">
+			<Option target="Lab6"/>
+			<Option target="Polinoms"/>
+		</Unit>
+		<Unit filename="/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/Terms.cpp">
+			<Option target="Lab6"/>
+			<Option target="Polinoms"/>
+		</Unit>
+		<Unit filename="/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/Terms.h">
+			<Option target="Lab6"/>
+			<Option target="Polinoms"/>
+		</Unit>
+		<Unit filename="/Users/mikalbr/Projects/Sem2/Lab6/main.cpp">
+			<Option target="Lab6"/>
+		</Unit>
+		<Unit filename="/Users/mikalbr/Projects/Sem2/Lab6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Polinoms\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

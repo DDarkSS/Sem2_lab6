@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/Terms.cpp
+Terms.h
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/Terms.h
+iostream
+-
+
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/Terms.h
+iostream
+/Users/mikalbr/Projects/Sem2/Lab6/Polinoms/iostream
+
